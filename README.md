@@ -1,6 +1,6 @@
 # **Random String Generator**
 ## Table of Contents
-1.	Description
+1.	[Description](Description)
 2.	Installing and Running
 3.	How to Use
 4.	Add a License
